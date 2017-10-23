@@ -1,0 +1,196 @@
+body {
+	margin: 0rem;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+header {
+	
+	background-color:grey;
+		
+
+}
+
+nav {
+	background-color: black;
+		
+}
+
+nav ol {
+	text-align: center;
+	padding: 1em;
+	margin: 0;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	font-family: ;
+	font-size: 1rem;
+	font-weight: 100;
+	color: #eee;
+	text-decoration: none;
+	padding: 1.3em .7em;
+}
+
+nav a:hover {
+	background: yellow;
+	color: black;
+}
+
+h1 {
+	left: 1em;
+}
+
+p {
+	padding: 0 2rem;
+}
+
+h3 {
+	padding: 0 1rem;
+}
+
+
+
+.subtitle {
+	font-size: 1.25rem;
+	padding: 0 1rem;
+}
+
+.date {
+	font-size: .75rem;
+	padding-right:1em;
+	padding-bottom: 2em;
+	padding-top: -1em;
+}
+
+.pitstop89 {
+	width:11em;
+	float:right;
+	transform: translateY(-120%);
+}
+
+
+.rmc {
+	width: 20%;
+}
+
+.rimon {
+width:11em;
+	float:right;
+	transform: translateY(-5%);
+}
+
+.rimon9 {
+width:11em;
+	float:right;
+	transform: translateY(-5%);
+}
+
+.rimoff2 {
+width:11em;
+	float:right;
+	transform: translateY(-35%);
+}
+
+h4{
+	font-size: 1em;
+	color: white;
+	
+	position: relative;
+	left: 5%;
+		}
+
+
+h5{
+	font-size: 1.5em;	
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+
+}
+
+h6{
+	font-size: 1.5em;	
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+
+
+}
+
+h5{
+	font-size: 1.5em;	
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+
+}
+
+h6{
+	font-size: 1.5em;	
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+
+
+}
+
+a{
+	text-decoration: none;
+	color:black;
+
+}
+
+a:hover{
+	
+	color:yellow;
+	
+}
+
+footer {
+	background-color: black;
+
+	
+}
+
+
+
+@media only screen and (min-width: 30em) {
+	h1{
+		font-size: 3em;
+	}
+	p{
+		font-size: 1.5rem;
+	}
+	h2{
+		font-size: 1.75rem;
+	}
+
+	
+}
+
+@media only screen and (min-width: 48em) {
+	h1{
+		font-size: 5em;
+	}
+
+	p {
+		font-size: 2rem;
+	}
+
+	h2 {
+		font-size: 2.25rem;
+	}
+
+	ul{
+		font-size: 1.5rem;
+	}
+
+
+
+
+	

@@ -1,0 +1,105 @@
+html {
+	background-image: url(../img/stop.png);
+	background-size: cover;
+	height: 100%;
+}
+
+
+a{
+	text-decoration: none;
+	color:yellow;
+
+}
+
+a:hover{
+	
+	color:black;
+	
+}
+
+
+ul{
+	list-style: none;
+}
+
+
+
+.logo{
+	width: 50%;
+	margin-left: 5%;
+}
+
+.bar{
+	width: 10%;
+	margin-left: 80%;
+	transform: translateY(-125%);
+}
+
+.pitstop{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:16%;
+	}
+
+.off{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:23%;
+	}
+
+.on{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:30%;
+
+}
+
+
+
+
+
+@media only screen and (min-width:55em){
+
+html {
+	background-image: url(../img/pit.png);
+}
+
+.pitstop{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:30%;
+	left:40%;
+}
+
+.off{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	left: 73%;
+	top:35%;
+}
+
+.on{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	left: 6%;
+	top:70%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,576 @@
+html {
+	background-image: url(../img/menuback2.png);
+	background-size: cover;
+	height: 100%;
+}
+
+
+
+
+
+a{
+	text-decoration: none;
+	color:yellow;
+
+}
+
+a:hover{
+	
+	color:white;
+	
+}
+
+ul{
+	list-style: none;
+}
+
+
+
+h1{
+	font-size: 3em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  10%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 59%;
+	margin-top: 20%;
+	
+}
+
+.menupit {
+	width:7rem;
+	position: absolute;
+	top:18%;
+	left: 7%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 47%;
+	margin-top: 45%;
+	text-align: center;
+
+}
+
+.menuoff {
+	width:7rem;
+	position: absolute;
+	top:46%;
+	left: 7%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 45%;
+	margin-top: 40%;
+	text-align: center;
+
+
+}
+
+.menuon {
+	width:7rem;
+	position: absolute;
+	left: 7%;
+	top: 77%;
+	
+}
+
+
+
+@media only screen and (min-width: 28em) {
+
+h1{
+	font-size: 5em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  10%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 59%;
+	margin-top: 20%;
+	
+}
+
+.menupit {
+	width:10rem;
+	position: absolute;
+	top:25%;
+	left: 7%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 47%;
+	margin-top: 32%;
+	text-align: center;
+
+}
+
+.menuoff {
+	width:7rem;
+	position: absolute;
+	top:49%;
+	left: 7%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 45%;
+	margin-top: 30%;
+	text-align: center;
+
+
+}
+
+.menuon {
+	width:7rem;
+	position: absolute;
+	left: 7%;
+	top: 77%;
+	
+}
+
+
+
+}
+
+@media only screen and (min-width: 35em) {
+
+h1{
+	font-size: 5em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  10%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 59%;
+	margin-top: 16%;
+	
+}
+
+.menupit {
+	width:9rem;
+	position: absolute;
+	top:25%;
+	left: 7%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 48%;
+	margin-top: 26%;
+	text-align: center;
+
+}
+
+.menuoff {
+	width:9rem;
+	position: absolute;
+	top:47%;
+	left: 7%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 45%;
+	margin-top: 29%;
+	text-align: center;
+
+
+}
+
+.menuon {
+	width:9rem;
+	position: absolute;
+	left: 7%;
+	top: 75%;
+	
+}
+
+
+@media only screen and (min-width: 42em) {
+
+h1{
+	font-size: 5em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  10%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 59%;
+	margin-top: 10%;
+	
+}
+
+.menupit {
+	width:9rem;
+	position: absolute;
+	top:25%;
+	left: 7%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 48%;
+	margin-top: 21%;
+	text-align: center;
+
+}
+
+.menuoff {
+	width:9rem;
+	position: absolute;
+	top:47%;
+	left: 7%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	margin-left: 45%;
+	margin-top: 25%;
+	text-align: center;
+
+
+}
+
+.menuon {
+	width:9rem;
+	position: absolute;
+	left: 7%;
+	top: 75%;
+	
+}
+
+
+@media only screen and (min-width: 50em) {
+
+h1{
+	font-size: 5em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  10%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:51%;
+	left: -50%;
+
+	
+}
+
+.menupit {
+	width:12rem;
+	position: absolute;
+	top:33%;
+	left: 3.5%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:39.4%;
+	left: -17%;
+
+
+}
+
+.menuoff {
+	width:12rem;
+	position: absolute;
+	top:30%;
+	left: 36%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	left: 21%;
+	top: 35%;
+	position: absolute;
+
+
+}
+
+.menuon {
+	width:12rem;
+	position: absolute;
+	left: 71.5%;
+	top: 29%;
+	
+}
+
+@media only screen and (min-width: 62em) {
+
+h1{
+	font-size: 7em;
+	color: yellow;
+	margin-left: 30%;
+	margin-top:  7%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:55%;
+	left: -50%;
+
+	
+}
+
+.menupit {
+	width:15rem;
+	position: absolute;
+	top:33%;
+	left: 3.5%;
+
+	
+}
+
+.h3{
+	font-size: 2em;
+	color: yellow;
+	position: absolute;
+	top:40.5%;
+	left: -12.5%;
+
+
+}
+
+.menuoff {
+	width:15rem;
+	position: absolute;
+	top:30%;
+	left: 36%;
+	
+}
+
+.h4{
+	font-size: 2em;
+	color: yellow;
+	left: 25%;
+	top: 35.5%;
+	position: absolute;
+
+
+}
+
+.menuon {
+	width:15rem;
+	position: absolute;
+	left: 71.5%;
+	top: 29%;
+	
+}
+
+
+@media only screen and (min-width: 77em) {
+
+h1{
+	font-size: 7em;
+	color: yellow;
+	margin-left: 37%;
+	margin-top:  4%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2.5em;
+	color: yellow;
+	position: absolute;
+	top:59.9%;
+	left: -48.5%;
+
+	
+}
+
+.menupit {
+	width:17rem;
+	position: absolute;
+	top:33%;
+	left: 4.5%;
+
+	
+}
+
+.h3{
+	font-size: 2.5em;
+	color: yellow;
+	position: absolute;
+	top:42%;
+	left: -10.5%;
+
+
+}
+
+.menuoff {
+	width:17rem;
+	position: absolute;
+	top:30%;
+	left: 39%;
+	
+}
+
+.h4{
+	font-size: 2.5em;
+	color: yellow;
+	left: 25%;
+	top: 35.5%;
+	position: absolute;
+
+
+}
+
+.menuon {
+	width:17rem;
+	position: absolute;
+	left: 73%;
+	top: 29%;
+	
+}
+
+
+@media only screen and (min-width: 79em) {
+
+h1{
+	font-size: 10em;
+	color: yellow;
+	margin-left: 37%;
+	margin-top:  4%;
+
+	
+}
+
+
+
+.h2{
+	font-size: 2.5em;
+	color: yellow;
+	position: absolute;
+	top:62.5%;
+	left: -48.5%;
+
+	
+}
+
+.menupit {
+	width:17rem;
+	position: absolute;
+	top:33%;
+	left: 4.5%;
+
+	
+}
+
+.h3{
+	font-size: 2.5em;
+	color: yellow;
+	position: absolute;
+	top:43%;
+	left: -10.5%;
+
+
+}
+
+.menuoff {
+	width:17rem;
+	position: absolute;
+	top:30%;
+	left: 39%;
+	
+}
+
+.h4{
+	font-size: 2.5em;
+	color: yellow;
+	left: 25%;
+	top: 36.3%;
+	position: absolute;
+
+
+}
+
+.menuon {
+	width:17rem;
+	position: absolute;
+	left: 73%;
+	top: 29%;
+	
+}
+
+
+
+
+
+
+
+
+
